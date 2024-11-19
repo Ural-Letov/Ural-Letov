@@ -31,7 +31,7 @@ const Sudhan = {
 <br>
 
 <h2>Statistics</h2>
-<p>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ural-Letov&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Daniil Romanov's github stats" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ural-Letov&theme=tokyonight&hide_border=true" /></a>
   
