@@ -28,12 +28,14 @@ const Sudhan = {
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <br>
+<br>
 
 <h2>Statistics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ural-Letov&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ural-Letov&langs_count=8&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ural-Letov&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ural-Letov&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=Ural-Letov&show_icons=true&theme=tokyonight" />-->
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ural-Letov&langs_count=8&layout=compact&theme=tokyonight">-->
 </p>
 
 <!-- <i>Every time I get up from the table, I’m reminded that it’s time to clear it.</i> -->
