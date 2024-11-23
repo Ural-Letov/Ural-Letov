@@ -1,4 +1,4 @@
-<h1>Well, hello there 🖐️</h1>
+<h1>Well, hello there 🖐️  <img align="right" src="https://avatars.githubusercontent.com/u/117513166?v=4" width="200" /> </h1>
 I’m Daniil, from Russia. Web and Game development is what I’m passionate about.
 I work as a frontend developer using JavaScript, CSS, HTML, EJS, and Node.js.
 Currently working on the <a href="https://github.com/Ural-Letov/local.net/">local.net</a> forum and also honing my skills in Discord bot development.
@@ -18,7 +18,6 @@ Currently working on the <a href="https://github.com/Ural-Letov/local.net/">loca
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ural-Letov&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Daniil Romanov's github stats" /></a> 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ural-Letov&theme=tokyonight&hide_border=true" /></a>
-  
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ural-Letov&langs_count=8&layout=compact&theme=tokyonight">-->
 </p>
 <!-- <i>Every time I get up from the table, I’m reminded that it’s time to clear it.</i> -->
