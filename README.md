@@ -1,8 +1,8 @@
 <h1>Well, hello there 🖐️  <img align="right" src="https://avatars.githubusercontent.com/u/117513166?v=4" width="200" /> </h1>
 I’m Daniil, from Russia. Web and Game development is what I’m passionate about.
 I work as a frontend developer using JavaScript, CSS, HTML, EJS, and Node.js.
-Currently working on the <a href="https://github.com/Ural-Letov/local.net/">local.net</a> forum and also honing my skills in Discord bot development.
-<a href="https://github.com/Ural-Letov/Discord-ChatBot/">Discord-ChatBot</a> serves as an example of my work.
+Currently working on <a href="https://github.com/1Error-Studios/cristall.app">Cristall</a> note-taking application. Also improving my skills in Software development.
+<a href="https://github.com/Ural-Letov/local.net/">local.net</a> and <a href="https://github.com/Ural-Letov/Discord-ChatBot/">Discord-ChatBot</a> serves as an example of my work.
 
 <h2>Languages and Tools</h2>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
