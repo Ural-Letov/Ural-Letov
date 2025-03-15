@@ -16,8 +16,8 @@ Currently working on <a href="https://github.com/1Error-Studios/cristall.app">Cr
 
 <h2>Statistics</h2>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ural-Letov&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Daniil Romanov's github stats" /></a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ural-Letov&theme=tokyonight&hide_border=true" /></a>
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ural-Letov&langs_count=8&layout=compact&theme=tokyonight">-->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ural-Letov&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ural-Letov&theme=dark&hide_border=true" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ural-Letov&langs_count=8&layout=compact&theme=dark&hide_border=true"> -->
 </p>
 <!-- <i>Every time I get up from the table, I’m reminded that it’s time to clear it.</i> -->
