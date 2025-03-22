@@ -17,7 +17,7 @@ Currently working on <a href="https://github.com/1Error-Studios/cristall.app">Cr
 <h2>Statistics</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ural-Letov&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&cache_breaker=1&theme=dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ural-Letov&theme=dark&hide_border=true" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ural-Letov&langs_count=8&layout=compact&theme=dark&hide_border=true"> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ural-Letov&theme=dark&hide_border=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ural-Letov&langs_count=8&layout=compact&theme=dark&hide_border=true">
 </p>
 <!-- <i>Every time I get up from the table, I’m reminded that it’s time to clear it.</i> -->
